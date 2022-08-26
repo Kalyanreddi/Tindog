@@ -1,2 +1,1 @@
-# Tindog
-First Website using Bootstrap
+TinDog Starting Files
