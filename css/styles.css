@@ -182,7 +182,7 @@ h6 {
 
 /* Media Query Break Point */
 @media (max-width:990px) {
-    #title {
+    #welcome {
         text-align: center;
     }
 
